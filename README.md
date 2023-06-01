@@ -16,7 +16,7 @@
 Una vez que se complete la clonación, el repositorio de GitHub estará abierto y listo para ser editado y utilizado en Visual Studio.
 
 
-**Instrucciones para clonar el repositorio desde gitBash (cli)
+**Instrucciones para clonar el repositorio desde gitBash (cli) o CMD
 
 1. Crear una carpeta donde se guardara el repositorio.
 2. clic derecho, abrir con git bash, o Git Bash here.
