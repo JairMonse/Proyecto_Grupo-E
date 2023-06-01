@@ -15,3 +15,23 @@ Instrucciones para abrir el proyecto en el IDE(VS)
 
 Una vez que se complete la clonación, el repositorio de GitHub estará abierto y listo para ser editado y utilizado en Visual Studio.
 
+
+Instrucciones para clonar el repositorio desde gitBash (cli)
+
+1. Crear una carpeta donde se guardara el repositorio.
+2. clic derecho, abrir con git bash, o Git Bash here.
+3. escribir el siguiente comando  --git clone (link del repositorio)
+--git clone https://github.com/JairMonse/Proyecto_Grupo-E.git
+4. una vez clonado, ir a la carpeta del repositorio y hacer clic derecho abrir con visual studio.
+5. Y el proyecto estara listo para ser ejecutado.
+
+
+Insturcciones para clonar desde github.
+
+1. Click en el boton <>Code 
+2. Se desplegaran varias opciones, elegir Abrir con visual studio
+3. Saldra una alerta que lo redigira hacia el visual studio y luego una ventana para clonar.
+4. Clonar el repositorio
+5. esperar a que se descargue e instalen las dependencias, una vez terminado se podra ejecutar el proyecto.
+
+
