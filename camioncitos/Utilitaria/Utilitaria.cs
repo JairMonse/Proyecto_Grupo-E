@@ -9,25 +9,24 @@
         public SqlConnection getConection()
         {
             SqlConnection conn = new SqlConnection(CONECTION_STRING);
-
+            conn.Open();
             return conn;          
         }
 
-        public void exec_query(String query, SqlConnection conn)
+        public void exec_query(String spName,SqlParameter sqlParm)
         {
             //modificar
-            using (SqlCommand cmd = new SqlCommand(query, conn))
+            using(SqlConnection conn = getConection())
             {
-                cmd.CommandType = CommandType.StoredProcedure;
-                
-                    SqlDataReader reader = cmd.ExecuteReader();
-                    reader.Read();
-                
+                using (SqlCommand command = new SqlCommand(spName,conn))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add(sqlParm);
+                    command.ExecuteNonQuery();
 
-                
+                    
+                }
             }
-
-                
         }
     }
 }
