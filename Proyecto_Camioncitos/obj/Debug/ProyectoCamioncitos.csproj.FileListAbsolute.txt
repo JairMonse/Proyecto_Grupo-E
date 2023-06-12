@@ -1,0 +1,15 @@
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ProyectoCamioncitos\bin\Debug\ProyectoCamioncitos.exe.config
+C:\Users\cesar\source\repos\ProyectoCamioncitos\bin\Debug\ProyectoCamioncitos.exe
+C:\Users\cesar\source\repos\ProyectoCamioncitos\bin\Debug\ProyectoCamioncitos.pdb
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.Properties.Resources.resources
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.exe
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.pdb
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.LoginView.resources
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.ClienteCrudView.resources
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.Vista.SecretariaMenuView.resources
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.Vista.VehiculoCrudView.resources
+C:\Users\cesar\source\repos\ProyectoCamioncitos\obj\Debug\ProyectoCamioncitos.Vista.Conductor.ChoferCrudView.resources
