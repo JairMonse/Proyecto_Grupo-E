@@ -2,7 +2,7 @@
 
 **Instrucciones para abrir el proyecto en el IDE(VS)
 
-1.	Instala Visual Studio: Si aún no tienes Visual Studio instalado, descárgalo e instálalo en tu computadora. Puedes obtener la versión más reciente de Visual Studio desde el sitio web oficial de Microsoft.
+1.	Instalar Visual Studio: Si aún no tienes Visual Studio instalado, descárgalo e instálalo en tu computadora. Puedes obtener la versión más reciente de Visual Studio desde el sitio web oficial de Microsoft.
 2.	Abre Visual Studio: Una vez que hayas instalado Visual Studio, ábrelo en tu computadora.
 3.	Selecciona "Clonar un repositorio": En la pantalla de inicio de Visual Studio, selecciona "Clonar un repositorio" en la sección "Obtener código" o ve al menú "Archivo" y selecciona "Clonar repositorio".
 4.	Copia la URL del repositorio: En GitHub, navega hasta el repositorio que deseas abrir en Visual Studio y copia la URL del repositorio. Puedes encontrar la URL en la barra de direcciones del navegador.
