@@ -13,19 +13,32 @@
             return conn;          
         }
 
-        public void exec_query(String spName,SqlParameter sqlParm)
+        public DataSet exec_query(String spName,SqlParameter sqlParm)
         {
+            DataSet ds = new();
             //modificar
-            using(SqlConnection conn = getConection())
+            using (SqlConnection conn = getConection())
             {
                 using (SqlCommand command = new SqlCommand(spName,conn))
                 {
                     command.CommandType = CommandType.StoredProcedure;
                     command.Parameters.Add(sqlParm);
-                    command.ExecuteNonQuery();
+                    command.Connection = conn;
 
-                    
+                    try
+                    {
+                        conn.Open();
+                        SqlDataReader dr = command.ExecuteReader();
+                        DataTable dt = new DataTable();
+                        dt.Load(dr);
+                        ds.Tables.Add(dt);
+                    }
+                    catch (Exception e)
+                    {
+                        conn.Close();
+                    }
                 }
+            return ds;
             }
         }
     }
