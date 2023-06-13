@@ -11,6 +11,6 @@ namespace ProyectoCamioncitos.Modelo.DAO
     public class DBContext
     {
         //IMPORTANTE CAMBIAR RUTA A LA RUTA DE "TU" BASE DE DATOS
-        protected SqlConnection Conexion = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=Proyecto_Camioncitos;Trusted_Connection=True;");
+        protected SqlConnection Conexion = new SqlConnection("Server=localhost\\DESKTOP-NDPGFNC;Database=Proyecto_Camioncitos;Trusted_Connection=True;");
     }
 }
