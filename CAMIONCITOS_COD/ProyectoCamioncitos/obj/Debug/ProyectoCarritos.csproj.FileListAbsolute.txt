@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\ProyectoCarritos\bin\Debug\ProyectoCarritos.exe.config
+C:\Users\cesar\source\repos\ProyectoCarritos\bin\Debug\ProyectoCarritos.exe
+C:\Users\cesar\source\repos\ProyectoCarritos\bin\Debug\ProyectoCarritos.pdb
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.Properties.Resources.resources
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.exe
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.pdb
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.ClienteView.resources
+C:\Users\cesar\source\repos\ProyectoCarritos\obj\Debug\ProyectoCarritos.Vista.LogginView.resources
